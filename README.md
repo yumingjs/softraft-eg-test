@@ -1,2 +1,2 @@
 # softraft-eg-test
-softraft course
+softraft course Kong Liangyu
